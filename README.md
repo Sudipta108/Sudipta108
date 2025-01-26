@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sudipta!
 
-Welcome to my GitHub profile! I'm passionate about **[Your Interests]**, and here, you'll find a collection of my projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub profile! I'm passionate about Computer Science and Engineering, and here, you'll find a collection of my projects, experiments, and contributions to the open-source community.
 
 ---
 
