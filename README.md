@@ -5,11 +5,7 @@ About Me
 
 🚀 Focus: Full-Stack Web & Software Development
 
-💻 Current Stack: JavaScript / TypeScript, React, Node.js, Python, PostgreSQL
-
-⚡ Interested In: Cloud Architecture, API Design, and Open Source Software
-
-🌱 Currently Learning: Advanced Distributed Systems and DevOps Pipelines
+⚡ Interested In: Software developing, Software designing
 
 📫 Reach Me: sudiptahaldersh2020@gmail.com | www.linkedin.com/in/sudipta-halder-34760b307
 
