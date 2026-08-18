@@ -1,19 +1,19 @@
-# 👋 Hi there, I'm Sudipta!
+Hi there, I'm Sudipta Halder 👋
+I am a passionate Software Developer dedicated to writing clean, efficient code and building scalable applications that solve real-world problems.
 
-Welcome to my GitHub profile! I'm passionate about Computer Science and Engineering, and here, you'll find a collection of my projects, experiments, and contributions to the open-source community.
+About Me
 
----
+🚀 Focus: Full-Stack Web & Software Development
 
-## 🚀 About Me
+💻 Current Stack: JavaScript / TypeScript, React, Node.js, Python, PostgreSQL
 
-- 🌟 **What I do**: I am a student of Computer Science and Engineering
-- 📚 **Learning**: Programming languages , Web Development 
-- 🌍 **Interests**: Game Developing
-- 💬 **Ask me about**: Basic about CSE
+⚡ Interested In: Cloud Architecture, API Design, and Open Source Software
+
+🌱 Currently Learning: Advanced Distributed Systems and DevOps Pipelines
+
+📫 Reach Me: sudiptahaldersh2020@gmail.com | [LinkedIn Profile Link]
+
+🛠️ Skills
+ C, C++, Data structure, Algorithm, Java, MySQL, AutoCAD, Microsoft Powerpoint
 
 
-
-<!---
-Sudipta108/Sudipta108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
