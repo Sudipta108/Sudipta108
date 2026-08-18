@@ -11,7 +11,7 @@ About Me
 
 🌱 Currently Learning: Advanced Distributed Systems and DevOps Pipelines
 
-📫 Reach Me: sudiptahaldersh2020@gmail.com | [LinkedIn Profile Link]
+📫 Reach Me: sudiptahaldersh2020@gmail.com | www.linkedin.com/in/sudipta-halder-34760b307
 
 🛠️ Skills
  C, C++, Data structure, Algorithm, Java, MySQL, AutoCAD, Microsoft Powerpoint
